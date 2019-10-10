@@ -1,0 +1,28 @@
+talvez vá precisar de um modo de salvar o cadastro de veículos da seção de estacionagem. E ou até mesmo de salvar o mesmo na seção veículos dentro da seção estacionagem
+
+na seção veículo, após pagar a dívida, aparece a mensagem "Esta conta já está cadastrada!"; e na mesma seção, ao ver a dívida, esta estará fora do padrão de 2 dígitos de centavos
+
+consertar dívidas
+
+
+
+
+
+
+repetição de "conta errada ou inexistente" na seção estacionagem - contabilizar saída. Após digitar o cpf ao qual não há ces
+
+seção estacionar, salvar entrada de estacionamento, colocando um veículo que não está presente. A placa do carro é "tal"? Logo em seguida vai pra "Próxima ação". Ou melhor dizendo, aparente está salvando a contabilização de um veículo inexistente, na variável "tempEs". E se eu salvar a entrada de 2 veículos (inexistentes) seguidos, o primeiro será integrado com a saída.
+
+ao menos no repl.it não está recuperando/detectando a entrada de veículo ao tentar "bater o ponto" do mesmo
+
+
+
+
+
+
+nomear variáveis
+
+
+corrigir repetições de variáveis [contas] na seção 3. E falhas de coesão e coerência nos textos do sistema de estacionamento em geral
+
+na seção 3 temos como predominante a variável nCE. Que age sobre client e ces. Porém na 3-3, temos a variável "conta" substituindo o nCE!?
